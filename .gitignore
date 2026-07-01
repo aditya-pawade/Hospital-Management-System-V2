@@ -1,0 +1,22 @@
+# Build / IDE
+target/
+bin/
+.settings/
+.classpath
+.project
+*.iml
+.idea/
+*.class
+
+# Maven
+*.jar
+*.war
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# STS
+.springBeans
+.sts4-cache/
